@@ -29,6 +29,9 @@ let tree = {
 						{
 							title: "Manchester",
 						},
+						{
+							title: "Leicester",
+						}
 					],
 				},
 				{
